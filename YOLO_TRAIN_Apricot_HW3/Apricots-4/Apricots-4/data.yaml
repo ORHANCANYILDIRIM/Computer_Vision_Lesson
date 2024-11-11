@@ -1,0 +1,14 @@
+names:
+- Apricot
+- Leaf
+- seed
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: apricots-nj2bx
+  url: https://universe.roboflow.com/yldrm01-orhan-gmail-com/apricots-nj2bx/dataset/4
+  version: 4
+  workspace: yldrm01-orhan-gmail-com
+test: ../test/images
+train: ../train/images
+val: ../valid/images
